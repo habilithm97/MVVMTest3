@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMTest3</string>
+    <string name="title">MVVM 테스트</string>
+    <string name="raffle">추첨하기</string>
+</resources>
