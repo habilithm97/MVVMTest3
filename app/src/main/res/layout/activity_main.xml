@@ -4,7 +4,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.example.mvvmtest3.viewmodel.ViewModel" />
+            type="com.example.mvvmtest3.viewmodel.MainVM" />
     </data>
 
     <LinearLayout
